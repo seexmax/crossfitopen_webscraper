@@ -30,8 +30,8 @@ However, this will make the scraping longer. Upon you internet speed you can red
     get_data_as_csv(driver_name,page_nb,'file_name_output')
 
 **driver_name** here in the code I used google chrome as `driver`
-**page** here it's expected an integer, you can find the max page directly on the bottom page of the leaderboard CrossFit Game website.
-**'file_name_output'**   here it's expected a string for the name of the exported csv file. The file will be save in same location as **crossfitopen_webscraper.ipynb**
+    **page** here it's expected an integer, you can find the max page directly on the bottom page of the leaderboard CrossFit Game website.
+    **'file_name_output'**   here it's expected a string for the name of the exported csv file. The file will be save in same location as **crossfitopen_webscraper.ipynb**
 
 ## Backup
 
